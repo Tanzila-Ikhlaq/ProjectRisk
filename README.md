@@ -1,4 +1,4 @@
-## Project: Project Risk Assessment
+## Project: Risk Assessment
 
 ### Overview
 
