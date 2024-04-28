@@ -34,7 +34,7 @@ The project aims to develop a predictive model to assess the risk associated wit
 
 ### Requirements
 
-- Python 3.x
+- Python 3.11.5
 - Libraries: pandas, scikit-learn, imbalanced-learn, matplotlib, seaborn, Flask
 
 
